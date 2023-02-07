@@ -7,5 +7,5 @@ This project is built with Vite and TypeScript.
 <br />
 
 <p align="center">
-    <img src='/example/example2.gif' alt='Example.gif'>
+    <img src='/example/exmple2.gif' alt='Example.gif'>
 </p>

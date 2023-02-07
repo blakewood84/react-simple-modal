@@ -2,4 +2,6 @@
 
 This is an example of creating a simple modal using ReactDOM's `createPortal`.
 
-<img src='/example/example.gif' alt='Example.gif'>
+<p align="center">
+    <img src='/example/example.gif' alt='Example.gif'>
+</p>
